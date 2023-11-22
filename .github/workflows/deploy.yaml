@@ -31,5 +31,4 @@ jobs:
           publish_dir: ./dist/pwa-camera
           user_name: GitHub Actions
           user_email: actions@github.com
-          publish_branch: gh-pages # Or the branch you want to deploy to
-          clean: true
+          publish_branch: gh-pages
